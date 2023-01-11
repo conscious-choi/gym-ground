@@ -1,3 +1,3 @@
 # gym-ground
 
-### GUI Playground for @gymnasium environments
+### GUI Environment for Generating & Visualizing @gymnasium projects
